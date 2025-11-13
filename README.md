@@ -78,7 +78,7 @@ Pour toutes les requêtes sur `/games`, ajoutez le token dans les headers :
 Authorization: Bearer <votre_token>
 ```
 
-Exemple dans Bruno/Postman/Insomnia :
+Exemple dans Bruno :
 - Key : `Authorization`
 - Value : `Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...`
 
