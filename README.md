@@ -58,4 +58,4 @@ Ajouter le header: `Authorization: Bearer <token>`
 ## Base de données
 
 Le fichier `assets/data/bgg_dataset.json` sert de base de données.
-Remplacez-le par votre fichier complet si nécessaire.
+J'ai essayé de le remplacer par une base de donnée réalisée avec SQL Lite mais ça n'a pas fonctionné : J'ai réussi à créer la db mais je n'ai pas réussi à l'implémenter dans mon projet et le rendre fonctionnel.
